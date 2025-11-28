@@ -28,4 +28,4 @@ Each time the button is clicked, two random fighters are selected from an emoji 
 - 🐉 vs 🦁
 
 ## 📸 Demo
-
+ emojifighting.netlify.app
